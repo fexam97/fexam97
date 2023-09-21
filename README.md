@@ -1,8 +1,8 @@
-<h1>🖖 Hola! Bienvenido a mi perfil </h1>
+# 🖖 Hola! Bienvenido a mi perfil 
 
-<h3>Estoy comenzando como desarrollador front-end.</h3>
+### Estoy comenzando como desarrollador front-end.
 
-<h3>Te invito a ver mi Portfolio</h3>
+### Te invito a ver mi Portfolio</h3>
 
 <p>👨🏻‍💻 Acerca de mi</p>
 
