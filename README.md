@@ -4,10 +4,6 @@
 </div>
 
 
-### Estoy comenzando como desarrollador front-end.
-
-### Te invito a ver mi Portfolio</h3>
-
 <p>👨🏻‍💻 Acerca de mi</p>
 
 <ul>
